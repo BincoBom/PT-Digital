@@ -173,13 +173,13 @@ export default (() => {
 				>
 					<Override slot="StackItemContent" max-width="220px" />
 					{"        "}
-					<Image src="https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/googleplay.png?v=2021-03-16T20:55:55.553Z" box-shadow="0 0px 25px 0px rgba(30, 37, 43, 0.1)" />
+					<Image src="https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/googleplay.png?v=2021-03-16T20:55:55.553Z" box-shadow="0 0px 25px 0px rgba(30, 37, 43, 0.1)" sm-box-shadow="none" />
 					{"    "}
 				</StackItem>
 				{"    "}
 				<StackItem width="50%" display="flex" padding="0px 0px 0px 0px" max-width="220px">
 					{"        "}
-					<Image src="https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg?v=2021-03-16T20:27:06.320Z" box-shadow="0 0px 25px 0px rgba(30, 37, 43, 0.1)" />
+					<Image src="https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/Download_on_the_App_Store_Badge_RU_RGB_blk_100317.svg?v=2021-03-16T20:27:06.320Z" box-shadow="0 0px 25px 0px rgba(30, 37, 43, 0.1)" sm-box-shadow="none" />
 					{"    "}
 				</StackItem>
 			</Stack>
@@ -1050,7 +1050,7 @@ export default (() => {
 						color="--greyD2"
 						sm-font="normal 500 16px/1.5 --fontFamily-googleInter"
 					>
-						Стоимость за одинраздел. Можно выбрать любой раздел или несколько штук, оплата происходит за каждый выбранный раздел.
+						Стоимость за один раздел. Можно выбрать любой раздел или несколько штук, оплата происходит за каждый выбранный раздел.
 					</Text>
 					<Button
 						border-radius="30px"
@@ -1144,6 +1144,7 @@ export default (() => {
 				>
 					{"    "}
 					<StackItem md-width="100%" position="relative" max-width="300px">
+						<Override slot="StackItemContent" />
 						<Image src="https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/googleplay.png?v=2021-03-16T20:55:55.553Z" box-shadow="0 0px 25px 0px rgba(30, 37, 43, 0.1)" />
 					</StackItem>
 					<StackItem md-width="100%" position="relative" max-width="300px">

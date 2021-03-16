@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/BincoBom/PT-Digital/pulls">
+    <img src="https://badgen.net/github/prs/BincoBom/PT-Digital" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/BincoBom/PT-Digital" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
