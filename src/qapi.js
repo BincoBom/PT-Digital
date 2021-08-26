@@ -27,7 +27,13 @@ export default {
 			"background": "#ffffff"
 		},
 		"seo": {
-			"og:title": ""
+			"og:title": "",
+			"favicon_32px": "https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/logo.png?v=2021-02-18T09:06:23.754Z",
+			"favicon_apple_152px": "https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/logo.png?v=2021-02-18T09:06:23.754Z",
+			"favicon_win10_270px": "https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/logo.png?v=2021-02-18T09:06:23.754Z",
+			"background_win10": "",
+			"title": "Privat Tender",
+			"og:image": "https://uploads.quarkly.io/602a53318e7be4001e97a8e2/images/logo.png?v=2021-02-18T09:06:23.754Z"
 		}
 	}
 }

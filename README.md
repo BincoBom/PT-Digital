@@ -3,7 +3,7 @@
   <img src="http://uploads.quarkly.io/readme/cra/readme-quarkly-and-cra.png" width="480px" alt="Create-React-App project from Quarkly">
 </p>
 
-<h1 align="center">PrivatTender/1</h1>
+<h1 align="center">PrivatTender</h1>
 
 <h4 align="center">This Create-React-App project was created in <a href="https://quarkly.io/" target="_blank">Quarkly.io</a> – design tool for creating websites and web apps</h4>
 
@@ -66,7 +66,7 @@ Here you can create websites and web apps quickly, conveniently and beautifully.
 - [Updates](https://quarkly.io/updates)
 - [GitHub](https://github.com/quarkly)
 - [Twitter](https://twitter.com/quarklyapp)
-- [Spectrum](https://spectrum.chat/quarkly)
+- [Community](https://community.quarkly.io/)
 
 # 📝 License
 Licensed under the [MIT License](./LICENSE).
